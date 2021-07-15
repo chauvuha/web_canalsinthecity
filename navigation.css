@@ -4,7 +4,7 @@
 
 nav {
   z-index: 99;
-  background-color: #607262 ;
+  /* background-color: #607262 ; */
   display: flex;
   flex-wrap: wrap;
   align-items: center;

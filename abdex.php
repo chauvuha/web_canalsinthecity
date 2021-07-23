@@ -1,4 +1,5 @@
 <?php 
 // include_once("new.html");
-header('Location: /index.html')
+// header('Location: /index.html')
+include_once('index.html')
 ?>
